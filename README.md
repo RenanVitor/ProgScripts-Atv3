@@ -1,3 +1,11 @@
+### Atividade de avaliação 3 - Styled components
+
+Descrição da atividade: Fazer um aplicativo web para mostrar os dados do último sorteio da Mega-sena, Quina e Timemania.
+
+Objetivos: Styled components.
+
+----------------------------------------------------------------------------------------------------------------------
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
